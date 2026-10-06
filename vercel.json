@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!assets/|projects/.*\\.(?:svg|webp|png|jpg)|favicon.svg|Keren-Orozco-Resume.pdf|robots.txt|sitemap.xml).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

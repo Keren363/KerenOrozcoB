@@ -1,0 +1,1 @@
+Place approved public screenshots here (WebP recommended). Register paths and bilingual alt text in src/data/projects.ts screenshots. Set mobile: true for a phone screenshot. Never include internal employer screenshots. The SVGs are explicit placeholders.

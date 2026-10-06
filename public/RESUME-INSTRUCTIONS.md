@@ -1,0 +1,1 @@
+The user-provided resume is installed at public/Keren-Orozco-Resume.pdf and downloads are enabled. Replace this file to update your resume. Set resumeAvailable to false in src/data/contact.ts to temporarily disable downloads. Do not upload confidential employer information.
